@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\MergeSortEx\MergeSortEx\bin\Debug\MergeSortEx.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\MergeSortEx\MergeSortEx\bin\Debug\MergeSortEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\MergeSortEx\MergeSortEx\bin\Debug\MergeSortEx.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\MergeSortEx\MergeSortEx\obj\Debug\MergeSortEx.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\MergeSortEx\MergeSortEx\obj\Debug\MergeSortEx.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\MergeSortEx\MergeSortEx\obj\Debug\MergeSortEx.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\MergeSortEx\MergeSortEx\obj\Debug\MergeSortEx.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Assisted Practice Project\Section-8\MergeSortEx\MergeSortEx\obj\Debug\MergeSortEx.pdb
